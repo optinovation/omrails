@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'thin'
 
+
 group :production do
 	gem 'pg'
 end
